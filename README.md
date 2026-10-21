@@ -26,9 +26,9 @@ Random Forest and Gradient Boosting regression models were used for prediction. 
 
 ## Project Team
 
-- Asmat Ullah Khan
-- Muhammad Wajid Jamal
 - Muhammad Usman Shah
+- Muhammad Wajid Jamal
+- Asmat Ullah Khan
 
 **Supervisor:** Dr. Farrukh Qureshi  
 **Institution:** Namal University, Mianwali, Pakistan
