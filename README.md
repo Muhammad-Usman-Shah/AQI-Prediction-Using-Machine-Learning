@@ -20,9 +20,9 @@ Random Forest and Gradient Boosting regression models were used for prediction. 
 
 ## Project Files
 
-- [Source Code](01_Source_Code/)
-- [Project Report](02_Project_Report/)
-- [Prediction Results](03_Results/)
+- [Source Code](AQI_Prediction_Source_Code.ipynb)
+- [Project Report](AQI_Prediction_Project_Report.pdf.pdf)
+- [Prediction Results](AQI_Prediction_Results.pdf.pdf)
 
 ## Project Team
 
